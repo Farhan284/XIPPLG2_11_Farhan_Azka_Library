@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Validation\ValidationException;
 
-class LoansController extends Controller
+class LoanController extends Controller
 {
     public function index()
     {
